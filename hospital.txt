@@ -1,0 +1,39 @@
+# Box 6: Rehabilitation Services
+- Image: [INSERT IMAGE HERE]
+- Title: Helping You Recover and Thrive
+- Content: 
+
+# Box 7: Laboratory Services
+- Image: [INSERT IMAGE HERE]
+- Title: Accurate Lab Results for Better Health
+- Content: Our laboratory services provide accurate and timely test results, helping your healthcare provider diagnose and treat medical conditions.
+
+# Box 8: Pharmacy Services
+- Image: [INSERT IMAGE HERE]
+- Title: Convenient Pharmacy Services
+- Content: 
+
+# Box 9: Health Education
+- Image: [INSERT IMAGE HERE]
+- Title: Empowering You with Health Knowledge
+- Content: Our health education programs and resources help patients and families make informed decisions about their health and wellness.
+
+# Box 10: International Services
+- Image: [INSERT IMAGE HERE]
+- Title: World-Class Care for International Patients
+- Content: Our international services cater to patients from around the world, providing personalized care, language support, and cultural sensitivity.
+
+# Box 3: Surgical Services
+- Image: [INSERT IMAGE HERE]
+- Title: Expert Surgical Care for a Faster Recovery
+- Content: Our experienced surgeons and anesthesiologists provide top-notch surgical care, from routine procedures to complex operations. We prioritize patient safety and comfort.
+
+# Box 4: Maternity Services
+- Image: [INSERT IMAGE HERE]
+- Title: Welcoming Your New Arrival with Care
+- Content: Our maternity services provide a supportive and nurturing environment for new mothers and their families. From prenatal care to postpartum support, we're here for you.
+
+# Box 5: Pediatric Services
+- Image: [INSERT IMAGE HERE]
+- Title: Caring for Your Little Ones
+- Content: Our pediatricians and pediatric specialists provide comprehensive care for children, from routine check-ups to treatment of acute illnesses.
